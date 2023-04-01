@@ -1,0 +1,16 @@
+.board-cell{
+  align-items: center;
+  background-color: beige;
+  display: flex;
+  justify-content: center;
+  height: 80px;
+  width: 80px;
+}
+
+.board-cell-legal{
+  background-color: chocolate;
+}
+
+.board-cell-highlighted{
+  opacity: 0.5;
+}

@@ -1,0 +1,1 @@
+export { GamePiece } from './GamePiece';

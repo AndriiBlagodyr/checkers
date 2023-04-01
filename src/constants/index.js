@@ -1,0 +1,1 @@
+export { DEFAULT_BOARD_SIZE, GAME_PIECES_TYPES } from './constants';

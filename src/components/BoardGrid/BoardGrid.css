@@ -1,0 +1,4 @@
+.board-cells-row{
+  display: flex;
+  flex-direction: row;
+}
